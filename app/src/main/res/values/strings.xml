@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">[alhugail]midt2</string>
+    <string name="activity3">Activity3</string>
+    <string name="activity2">Activity2</string>
+    <string name="enter_your_id">Enter your id</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_namee">Enter Your Name</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="delete_empty">Delete Empty</string>
+    <string name="activity_1">activity 1</string>
+    <string name="view_all_data">View all data</string>
+</resources>
